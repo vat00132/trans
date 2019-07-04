@@ -1,0 +1,9 @@
+th {
+    background: #000080; /* Цвет фона строки заголовка */
+    color: #ffe; /* Цвет текста */
+    text-align: center; /* Выравнивание по левому краю */
+   }
+td
+{
+    text-align: center;
+}
